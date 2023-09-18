@@ -1,0 +1,24 @@
+/* start global  */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* End global  */
+
+
+
+/* Default height for small devices */ 
+#intro-example {
+    height: 650px;
+}
+
+/* Height for devices larger than 992px */
+@media (min-width: 992px) {
+#intro-example {
+height: 600px;
+}
+}
+
+
+
